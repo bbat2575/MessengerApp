@@ -2,6 +2,8 @@
 
 **A role-based messenger app for academic purposes**
 
+<img align="right" src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png" style="width: 50%;">
+
 Messenger features:
 - Friends list
 - Chat rooms
@@ -13,8 +15,6 @@ Messenger features:
 - Anonymity when posting articles and comments
 
 *See passwords.txt for existing accounts and their sign in details.*
-
-<img align="center" src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png">
 
 ## Roles
 
