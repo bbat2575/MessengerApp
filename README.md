@@ -68,6 +68,8 @@ To setup, install the packages:
 pip install -r requirements.txt
 ```
 
+Finally, add the authority certificate (certs/myCA.pem) as a trusted certificate to your internet browser.
+
 ## Running the App
 
 To run the app:
