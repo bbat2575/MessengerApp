@@ -29,7 +29,7 @@ Admin:
 - Comment on articles.  
 - Delete any comment.  
 
-Staff (many different types of staff roles can exist):  
+Staff (different types of staff roles can exist, e.g. Teacher, Teaching Assistant, Supervisor):  
 - Can chat with friends.  
 - Mute/Unmute Student users.  
 - Create articles.  
