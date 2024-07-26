@@ -14,7 +14,7 @@ Messenger features:
 
 *See passwords.txt for existing accounts and their sign in details.*
 
-<img align="center" src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png" style="width: 50%;">
+<img align="center" src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png" style="width: 80%;">
 
 ## Roles
 
