@@ -1,6 +1,6 @@
 # Messenger App
 
-<img align="right" src="https://github.com/bbat2575/Minimum-Cost-Spanning-Tree/blob/main/Messenger.png" style="width: 40%;">
+<img align="right" src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png" style="width: 40%;">
 
 **A role-based messenger app for academic purposes**
 
