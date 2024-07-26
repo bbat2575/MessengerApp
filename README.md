@@ -16,6 +16,7 @@ Messenger features:
 
 <p align="center">
     <img src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png"/>
+    <img src="https://github.com/bbat2575/MessengerApp/blob/main/Messenger.png"/>
 </p>
 
 ## Roles
