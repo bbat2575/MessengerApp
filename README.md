@@ -59,7 +59,7 @@ Staff Commands:
 - !mute <username>  
 - !unmute <username>  
 
-*Muted users cannot join chat rooms nor post or comment on articles.*
+*Muted users cannot join chat rooms or post/comment on articles.*
 
 ## Setup
 
