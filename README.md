@@ -1,6 +1,6 @@
 # Messenger App
 
-**A role-based messenger app for academic purposes**
+**A role-based messenging app for academic use.**
 
 Messenger features:
 - Friends list
